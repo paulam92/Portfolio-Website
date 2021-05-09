@@ -52,8 +52,7 @@ html {
   position: absolute;
   top: 0;
   right: 0;
-  background: url("./pics/header.jpg") no-repeat
-    center center/cover;
+  background: url("./pics/header.jpg") no-repeat center center/cover;
   height: 500px;
   width: 100%;
   z-index: -1;
@@ -62,7 +61,6 @@ html {
 .main {
   display: flex;
   flex-direction: column;
-
   align-items: center;
   position: relative;
   top: 30%;
@@ -71,7 +69,7 @@ html {
   height: 100vh;
 }
 .headings {
-  color: whitesmoke;
+  color: #b8c9b8;
   font-family: "Comic Neue", cursive;
   font-size: 3rem;
   text-align: center;
@@ -124,6 +122,7 @@ html {
   padding: 10px;
 }
 #intro h2 {
+  color: #698f69;
   font-family: "Comic Neue", cursive;
   font-size: 2rem;
   margin-bottom: 20px;
@@ -195,7 +194,7 @@ html {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(49, 73, 63, 0.9);
   color: white;
   padding: 20px;
 }
