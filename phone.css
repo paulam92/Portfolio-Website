@@ -3,18 +3,12 @@
     height:820px;
 }
 .headings{
-    font-size:1.2rem;
-    margin:0;
+    font-size:1.7rem;
 }
 /* About */
-#pic {
+#pic img{
     width:300px;
     height:175px;
-}
-#pic img{
-    width:100%;
-    height:auto;
-    object-fit: cover;
 }
 #intro h2{
     font-size: 1.5rem;
